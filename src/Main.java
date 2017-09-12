@@ -52,7 +52,7 @@ public class Main {
 
         displayList(numbers);
         shellSort(numbers);
-        System.out.println("*****************SORTED*****************");
+        System.out.println("****************SORTED****************");
         displayList(numbers);
     }
 }
